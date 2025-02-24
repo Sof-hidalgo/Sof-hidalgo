@@ -33,7 +33,7 @@ Soy una Científica de Datos Junior apasionada por la tecnología, los datos y e
 Siempre estoy buscando la forma de obtener una solución eficaz y sencilla. Lista para nuevos desafíos y proyectos donde pueda aplicar mis habilidades en Python, SQL, ML y visualización de datos. 
 ¡Los datos nunca mienten y siempre tienen algo interesante que decir! ❤️‍🔥
 
-📌 Recientemente, culminé un Bootcamp de Ciencia de Datos en TripleTen LatAm y me gustaría especializarme en Inteligencia Artificial con Python y SQL.
+📌 Recientemente, culminé un Bootcamp de Data Scientist en TripleTen LatAm y me gustaría especializarme en Inteligencia Artificial con Python y SQL.
 
 #### 🌿 Datos curiosos sobre mí:
 
