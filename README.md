@@ -30,7 +30,8 @@ Soy una Científica de Datos Junior apasionada por la tecnología, los datos y e
 - 🤖 Construyo modelos de Machine Learning
 - 📊 Transformo datos en visualizaciones impactantes
 
-Siempre estoy buscando la forma de obtener una solución eficaz y sencilla y lista para nuevos desafíos y proyectos donde pueda aplicar mis habilidades en Python, SQL, ML y visualización de datos. ¡Los datos nunca mienten y siempre tienen algo interesante que decir! ❤️‍🔥
+Siempre estoy buscando la forma de obtener una solución eficaz y sencilla. Lista para nuevos desafíos y proyectos donde pueda aplicar mis habilidades en Python, SQL, ML y visualización de datos. 
+¡Los datos nunca mienten y siempre tienen algo interesante que decir! ❤️‍🔥
 
 📌 Recientemente, culminé un Bootcamp de Ciencia de Datos en TripleTen LatAm y me gustaría especializarme en Inteligencia Artificial con Python y SQL.
 
@@ -54,6 +55,8 @@ Siempre estoy buscando la forma de obtener una solución eficaz y sencilla y lis
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 <!--### 💡 My GitHub stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sof-hidalgo&show_icons=true&theme=tokyonight) 
