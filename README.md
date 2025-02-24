@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](https://www.canva.com/design/DAGgD3xGlsY/BPB09Yvq29MUUpiUPofBKg/view?utm_content=DAGgD3xGlsY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5def372917)
+![Banner](https://github.com/Sof-hidalgo/Sof-hidalgo/blob/main/Banner%20para%20LinkedIn%20Portada%20Elegante%20Estampado%20Floral%20Ilustracio%CC%81n%20Abstracta%20Blanco%20y%20Negro.png)
 
 # Hola! Soy Sofía. ¡Un gusto conocerte! 🤗
 ✨ ¡Hablemos! Por aquí puedes contactarme: ✨
