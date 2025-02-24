@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img decoding="async" src="https://www.canva.com/design/DAGgD3xGlsY/BPB09Yvq29MUUpiUPofBKg/view?utm_content=DAGgD3xGlsY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5def372917" width="800"/>
-</div>
+![Banner](https://www.canva.com/design/DAGgD3xGlsY/BPB09Yvq29MUUpiUPofBKg/view?utm_content=DAGgD3xGlsY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5def372917)
 
 # Hola! Soy Sofía. ¡Un gusto conocerte! 🤗
 ✨ ¡Hablemos! Por aquí puedes contactarme: ✨
