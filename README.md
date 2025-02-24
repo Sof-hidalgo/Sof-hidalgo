@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hola! Soy Sofía. ¡Un gusto conocerte! 👋
-✨ Aquí puedes contactarme ✨
+<div id="header" align="center">
+  <img decoding="async" src="https://www.canva.com/design/DAGgD3xGlsY/BPB09Yvq29MUUpiUPofBKg/view?utm_content=DAGgD3xGlsY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5def372917" width="800"/>
+</div>
+
+# Hola! Soy Sofía. ¡Un gusto conocerte! 🤗
+✨ ¡Hablemos! Por aquí puedes contactarme: ✨
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehidalgo.sof@gmail.com)
 
 
 ### Un poco acerca de mí... ☕️
@@ -27,10 +32,14 @@ Soy una Científica de Datos Junior apasionada por la tecnología, los datos y e
 - 🤖 Construyo modelos de Machine Learning
 - 📊 Transformo datos en visualizaciones impactantes
 
-Siempre estoy buscando nuevos desafíos y proyectos donde pueda aplicar mis habilidades en Python, SQL, ML y visualización de datos. ¡Los datos nunca mienten y siempre tienen algo interesante que decir! ❤️‍🔥
+Siempre estoy buscando la forma de obtener una solución eficaz y sencilla y lista para nuevos desafíos y proyectos donde pueda aplicar mis habilidades en Python, SQL, ML y visualización de datos. ¡Los datos nunca mienten y siempre tienen algo interesante que decir! ❤️‍🔥
 
-- Culminé un bootcamp de Científico de Datos en TripleTen LatAm y me gustaría especializarme en Inteligencia Artificial con Python y SQL.
-- Amo los animales 🐕, me gusta dar paseos y admirar la naturaleza 🌲, y amo la música clásica 🎻
+📌 Recientemente, culminé un Bootcamp de Ciencia de Datos en TripleTen LatAm y me gustaría especializarme en Inteligencia Artificial con Python y SQL.
+
+#### 🌿 Datos curiosos sobre mí:
+
+- Amo los animales 🐕 y disfruto paseos al aire libre, admirando la naturaleza 🌲.
+- Me encanta la música clásica 🎻, suelo escucharla especialmente cuando estudio o programo.
 
 ## 🧰 Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,5 +57,9 @@ Siempre estoy buscando nuevos desafíos y proyectos donde pueda aplicar mis habi
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 💡 My GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sof-hidalgo&show_icons=true&theme=tokyonight)
+<!--### 💡 My GitHub stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sof-hidalgo&show_icons=true&theme=tokyonight) 
+-->
+
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-hidalgo&layout=compact&theme=tokyonight)
+
