@@ -65,25 +65,7 @@ Data never lies and always has interesting to reveal! ❤️‍🔥
 
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-hidalgo&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Sof-hidalgo/count.svg" alt="Contador de Visitas" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sof-hidalgo&style=flat-square&color=blueviolet" alt="Contador de Visitas" />
-</p>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/👁️_VISITAS-CONTADOR-blue?style=for-the-badge&logo=github" />
-  <br>
-  <img src="https://profile-counter.glitch.me/Sof-hidalgo/count.svg" />
-</div>
-
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@Sof-hidalgo?theme=rule34" alt="Contador de Visitas" />
-</p>
 
 
 <div align="center">
@@ -92,9 +74,3 @@ Data never lies and always has interesting to reveal! ❤️‍🔥
   <img src="https://profile-counter.glitch.me/Sof-hidalgo/count.svg" />
 </div>
 
----
-
-# Sof-hidalgo
-
-[![GitHub estrellas](https://img.shields.io/github/stars/Sof-hidalgo/Sof-hidalgo.svg?style=social&label=Star)](https://github.com/Sof-hidalgo/Sof-hidalgo)
-[![GitHub forks](https://img.shields.io/github/forks/Sof-hidalgo/Sof-hidalgo.svg?style=social&label=Fork)](https://github.com/Sof-hidalgo/Sof-hidalgo)
