@@ -66,7 +66,7 @@ Data never lies and always has interesting to reveal! ❤️‍🔥
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-hidalgo&layout=compact&theme=tokyonight)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sof-hidalgo&theme=highcontrast&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Sof-hidalgo&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
 </p>
 
 
