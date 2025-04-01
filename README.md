@@ -66,11 +66,6 @@ Data never lies and always has interesting to reveal! ❤️‍🔥
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-hidalgo&layout=compact&theme=tokyonight)
 
 
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bienvenid@&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Contador%20de%20Visitas&descAlignY=51&descAlign=62" />
-  <br>
-  <img src="https://profile-counter.glitch.me/Sof-hidalgo/count.svg" />
-</div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sof-hidalgo&style=flat-square&color=blueviolet" alt="Contador de Visitas" />
+</p>
