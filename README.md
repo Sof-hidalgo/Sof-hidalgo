@@ -66,7 +66,7 @@ Data never lies and always has interesting to reveal! ❤️‍🔥
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-hidalgo&layout=compact&theme=tokyonight)
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sof-hidalgo&label=👀%20Profile%20Views&color=6&icon=2&pretty=true" alt="Profile Views Counter" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sof-hidalgo&count_bg=%2300C896&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views">
 </p>
 
 
