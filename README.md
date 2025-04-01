@@ -65,31 +65,36 @@ Data never lies and always has interesting to reveal! ❤️‍🔥
 
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-hidalgo&layout=compact&theme=tokyonight)
 
-# Badge personalizado para contar visitas en tu README de GitHub
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Sof-hidalgo/count.svg" alt="Contador de Visitas" />
+</p>
 
-## Opción 1: Contador de visitas con shields.io
-
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Sof-hidalgo.Sof-hidalgo)
-
-
-## Opción 2: Contador de visitas con hits.sh
-
-![Visitas](https://hits.sh/github.com/Sof-hidalgo/Sof-hidalgo.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sof-hidalgo&style=flat-square&color=blueviolet" alt="Contador de Visitas" />
+</p>
 
 
-## Opción 3: Contador personalizado con cuenta-badges.vercel.app
+<div align="center">
+  <img src="https://img.shields.io/badge/👁️_VISITAS-CONTADOR-blue?style=for-the-badge&logo=github" />
+  <br>
+  <img src="https://profile-counter.glitch.me/Sof-hidalgo/count.svg" />
+</div>
 
-![Visitas](https://cuenta-badges.vercel.app/api/views/Sof-hidalgo/Sof-hidalgo)
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Sof-hidalgo?theme=rule34" alt="Contador de Visitas" />
+</p>
 
 
-## Opción 4: Contador con estadísticas visuales usando profile-counter
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bienvenid@&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Contador%20de%20Visitas&descAlignY=51&descAlign=62" />
+  <br>
+  <img src="https://profile-counter.glitch.me/Sof-hidalgo/count.svg" />
+</div>
 
-![Visitas](https://profile-counter.glitch.me/Sof-hidalgo-Sof-hidalgo/count.svg)
+---
 
-## Implementación completa con diseño atractivo
+# Sof-hidalgo
 
-### Sof-hidalgo
-
-[![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Sof-hidalgo.Sof-hidalgo)](https://github.com/Sof-hidalgo/Sof-hidalgo)
 [![GitHub estrellas](https://img.shields.io/github/stars/Sof-hidalgo/Sof-hidalgo.svg?style=social&label=Star)](https://github.com/Sof-hidalgo/Sof-hidalgo)
 [![GitHub forks](https://img.shields.io/github/forks/Sof-hidalgo/Sof-hidalgo.svg?style=social&label=Fork)](https://github.com/Sof-hidalgo/Sof-hidalgo)
