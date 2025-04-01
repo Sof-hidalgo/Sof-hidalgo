@@ -15,30 +15,31 @@ Here are some ideas to get you started:
 
 ![Banner](https://github.com/Sof-hidalgo/Sof-hidalgo/blob/main/Banner%20para%20LinkedIn%20Portada%20Elegante%20Estampado%20Floral%20Ilustracio%CC%81n%20Abstracta%20Blanco%20y%20Negro.png)
 
-# ¡Hola! Soy Sofía. ¡Un gusto conocerte! 🤗
-✨ ¡Hablemos! Por aquí puedes contactarme: ✨
+# H! I'm Sofía. Nice to meet you! 🤗
+✨ Let's connect! You can reach me here: ✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehidalgo.sof@gmail.com)
 
 
-### Un poco acerca de mí... ☕️
+### A little about me... ☕️
 
-Soy una Científica de Datos Junior apasionada por la tecnología, los datos y el aprendizaje continuo. Creo firmemente que cada dato cuenta una historia y mi misión es darle sentido a la información para ayudar a la toma de decisiones.
+I'm a Junior Data Scientist passionate about technology, data and countinuos lerning. I firmly believe thata every data point tells a story, and my mission is make sense of information to support decision-making.
 
-- 🔍 Exploro patrones ocultos en los datos
-- 🤖 Construyo modelos de Machine Learning
-- 📊 Transformo datos en visualizaciones impactantes
+- 🔍 I explore hidden patterns in data
+- 🤖 I build Machine Learning models
+- 📊 I transform data into impactful visualizations
 
-Siempre estoy buscando la forma de obtener una solución eficaz y sencilla. Lista para nuevos desafíos y proyectos donde pueda aplicar mis habilidades en Python, SQL, ML y visualización de datos. 
-¡Los datos nunca mienten y siempre tienen algo interesante que decir! ❤️‍🔥
+I'a always looking for effective and simple solutions. Ready for new challenges and prejects wjere I can apply my skills in Python, SQL, Machine Learning, and data visualization.
+Data never lies and always has interesting to reveal! ❤️‍🔥
 
-📌 Recientemente, culminé un Bootcamp de Data Scientist en TripleTen LatAm y me gustaría especializarme en Inteligencia Artificial con Python y SQL.
+📌 Recently, I've completed a Data Science Bootcamp at TripleTen LatAm and would love to specialize in Arificial Intelligence.
 
-#### 🌿 Datos curiosos sobre mí:
+#### 🌿 Fuc facs about me:
 
-- Amo los animales 🐕 y disfruto paseos al aire libre, admirando la naturaleza 🌲.
-- Me encanta la música clásica 🎻, suelo escucharla especialmente cuando estudio o programo.
+- I'm a fan of classic music 🎻, especially when studying or coding.
+- I love animals 🐕 and enjoy outdoor walks 🌲.
+- I'm a fencer, what a lovely sport! 🤺
 
 ## 🧰 Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,4 +64,5 @@ Siempre estoy buscando la forma de obtener una solución eficaz y sencilla. List
 -->
 
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-hidalgo&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Sof-hidalgo&color=blue&style=for-the-badge)
 
