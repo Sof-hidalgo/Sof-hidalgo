@@ -65,5 +65,31 @@ Data never lies and always has interesting to reveal! ❤️‍🔥
 
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-hidalgo&layout=compact&theme=tokyonight)
 
+# Badge personalizado para contar visitas en tu README de GitHub
+
+## Opción 1: Contador de visitas con shields.io
+
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Sof-hidalgo.Sof-hidalgo)
 
+
+## Opción 2: Contador de visitas con hits.sh
+
+![Visitas](https://hits.sh/github.com/Sof-hidalgo/Sof-hidalgo.svg)
+
+
+## Opción 3: Contador personalizado con cuenta-badges.vercel.app
+
+![Visitas](https://cuenta-badges.vercel.app/api/views/Sof-hidalgo/Sof-hidalgo)
+
+
+## Opción 4: Contador con estadísticas visuales usando profile-counter
+
+![Visitas](https://profile-counter.glitch.me/Sof-hidalgo-Sof-hidalgo/count.svg)
+
+## Implementación completa con diseño atractivo
+
+### Sof-hidalgo
+
+[![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Sof-hidalgo.Sof-hidalgo)](https://github.com/Sof-hidalgo/Sof-hidalgo)
+[![GitHub estrellas](https://img.shields.io/github/stars/Sof-hidalgo/Sof-hidalgo.svg?style=social&label=Star)](https://github.com/Sof-hidalgo/Sof-hidalgo)
+[![GitHub forks](https://img.shields.io/github/forks/Sof-hidalgo/Sof-hidalgo.svg?style=social&label=Fork)](https://github.com/Sof-hidalgo/Sof-hidalgo)
