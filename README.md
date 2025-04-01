@@ -66,6 +66,6 @@ Data never lies and always has interesting to reveal! ❤️‍🔥
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-hidalgo&layout=compact&theme=tokyonight)
 
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sof-hidalgo&style=flat-square&color=blueviolet" alt="Contador de Visitas" />
 </p>
