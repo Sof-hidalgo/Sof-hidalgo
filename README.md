@@ -64,6 +64,10 @@ Data never lies and always has interesting to reveal! ❤️‍🔥
 -->
 
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-hidalgo&layout=compact&theme=tokyonight)
-![Profile Views](https://visitcount.itsvg.in/api?id=Sof-hidalgo&label=Profile%20Views&color=12&icon=5&pretty=true)
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Sof-hidalgo?theme=gelbooru" alt="Profile Views" />
+</p>
+
 
 
