@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Banner](https://github.com/Sof-hidalgo/Sof-hidalgo/blob/main/Banner%20para%20LinkedIn%20Portada%20Elegante%20Estampado%20Floral%20Ilustracio%CC%81n%20Abstracta%20Blanco%20y%20Negro.png)
 
-# H! I'm Sofía. Nice to meet you! 🤗
+# Hi! I'm Sofía. Nice to meet you! 🤗
 ✨ Let's connect! You can reach me here: ✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil)
@@ -35,7 +35,7 @@ Data never lies and always has interesting to reveal! ❤️‍🔥
 
 📌 Recently, I've completed a Data Science Bootcamp at TripleTen LatAm and would love to specialize in Arificial Intelligence.
 
-#### 🌿 Fuc facs about me:
+#### 🌿 Fun facts about me:
 
 - I'm a fan of classic music 🎻, especially when studying or coding.
 - I love animals 🐕 and enjoy outdoor walks 🌲.
